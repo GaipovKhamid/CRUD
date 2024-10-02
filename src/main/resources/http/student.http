@@ -1,0 +1,23 @@
+### Car Create
+POST localhost:8080/car/create
+Content-Type: application/json
+
+{
+  "name": "Cobalt",
+  "model": "Chevrolet",
+  "year": "2023"
+}
+
+### Car Update
+PUT localhost:8080/car/update/
+Content-Type: application/json
+
+{
+  "name": "Gentra",
+  "model": "Chevrolet",
+  "year": "2024"
+}
+
+### All
+GET localhost:8080/car/all
+Content-Type: application/json

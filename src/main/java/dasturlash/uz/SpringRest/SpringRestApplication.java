@@ -1,5 +1,6 @@
 package dasturlash.uz.SpringRest;
 
+import dasturlash.uz.SpringRest.controller.CarController;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
